@@ -1,0 +1,23 @@
+.main{
+	border: 5px solid gray;
+	width: 500px;
+	min-height: 500px;
+}
+
+.box{
+	width: 100px;
+	height: 100px;
+}
+.box1{
+	background-color: red;
+	position: relative;
+	left: 50px;
+	top: 25px;
+}
+.box2{
+	background-color: yellow;
+}
+.box3{
+	background-color: blue;
+}
+
